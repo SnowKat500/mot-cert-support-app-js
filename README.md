@@ -1,3 +1,5 @@
+Kate is practising. I hope it works cos I wanna go have a shower finally.
+
 # Timesheet Manager
 This provides the frontend for the Timesheet manager support app for the Automation in Testing Engineer learning journey.
 
